@@ -1,0 +1,1 @@
+Place model.pt, style_stroke.pkl, and style_text.pkl here
